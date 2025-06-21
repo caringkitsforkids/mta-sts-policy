@@ -1,0 +1,9 @@
+{
+    "name": "mta-sts",
+    "compatibility_date": "2025-06-20",
+    "assets": {
+        "directory": "./assets/"
+    },
+    "workers_dev": false,
+    "preview_urls": false
+}
